@@ -1,1 +1,1 @@
-# ExerciciosMySQL-generation-bloco2
+# Exercicios de MySQL 
